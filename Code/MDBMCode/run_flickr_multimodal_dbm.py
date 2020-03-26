@@ -3,7 +3,7 @@
 
 import numpy as np
 import tensorflow as tf
-import yadlt.core.config as config
+import config
 import os
 
 from yadlt.utils import utilities

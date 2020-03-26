@@ -4,7 +4,7 @@
 import os
 import numpy as np
 import tensorflow as tf
-import yadlt.core.config as config
+import config
 
 import dbm
 

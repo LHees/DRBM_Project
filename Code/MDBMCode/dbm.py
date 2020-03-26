@@ -10,7 +10,7 @@ import os
 import tensorflow as tf
 
 from yadlt.core.unsupervised_model import UnsupervisedModel
-import yadlt.models.boltzmann.rbm as rbm
+import rbm
 from yadlt.utils import utilities
 
 
